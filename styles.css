@@ -130,3 +130,12 @@ img{ border-radius: 10px 10px 0 0;
     
 }
 
+@media (max-width:1024px) {
+    .order-container{
+        margin: 50px;
+       
+        
+    } 
+
+}
+
